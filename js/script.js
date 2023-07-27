@@ -9,10 +9,11 @@ setInterval(function(){
     }
 },5000);
 
-
+/*
 const navbarToggle = document.querySelector('#menu-icon');
 const navbarMenu = document.querySelector('.navbar');
 
 navbarToggle.addEventListener('click', function() {
   navbarMenu.classList.toggle('active');
 });
+*/
