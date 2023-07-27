@@ -693,7 +693,7 @@ music-background {
     background: url(../image/background-musique.webp);
 }
 
-
+/*
 @media screen and (max-width: 1032px) {
     .navbar {
       display: none;
@@ -703,3 +703,4 @@ music-background {
       display: block;
     }
 }
+*/
