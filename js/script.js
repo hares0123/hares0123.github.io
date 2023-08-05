@@ -12,7 +12,7 @@ setInterval(function(){
 const navbarToggle = document.querySelector('#menu-icon');
 const navbarMenu = document.querySelector('.navbar');
 
-navbarToggle.addEventListener('click', function() {
+navbarToggle.addEventListener('click', () => {
   navbarMenu.classList.toggle('active');
 });
 
