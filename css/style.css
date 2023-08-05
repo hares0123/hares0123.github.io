@@ -193,7 +193,7 @@ section {
 }
 
 .home-sci {
-    position:absolute;
+    position: relative;
     bottom: 4rem;
     left: 42%;
     width: 170px;
