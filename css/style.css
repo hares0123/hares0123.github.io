@@ -693,6 +693,10 @@ music-background {
     background: url(../image/background-musique.webp);
 }
 
+.menu_mobile{
+    
+}
+
 /*
 @media screen and (max-width: 1032px) {
     .navbar {
