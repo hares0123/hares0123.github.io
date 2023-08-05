@@ -193,6 +193,7 @@ section {
 }
 
 .home-sci {
+    position:absolute;
     bottom: 4rem;
     left: 42%;
     width: 170px;
@@ -704,7 +705,7 @@ music-background {
 }
 
 .active{
-    position:absolue;
+    position:absolute;
     padding: 1.5rem;
     text-align: center;
     background: "bleue";
