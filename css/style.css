@@ -693,7 +693,7 @@ music-background {
     background: url(../image/background-musique.webp);
 }
 
-
+/*
 @media screen and (max-width: 1032px) {
     .navbar {
       display: none;
@@ -712,3 +712,4 @@ music-background {
     text-color: "red";
     transition: 0,3s;
 }
+*/
