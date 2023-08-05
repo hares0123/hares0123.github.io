@@ -707,5 +707,6 @@ music-background {
 .active{
     padding: 1.5rem;
     text-align: center;
-    background: "bleue"
+    background: "bleue";
+    text-color: "red";
 }
