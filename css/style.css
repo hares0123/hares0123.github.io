@@ -693,11 +693,7 @@ music-background {
     background: url(../image/background-musique.webp);
 }
 
-.menu_mobile{
-    
-}
 
-/*
 @media screen and (max-width: 1032px) {
     .navbar {
       display: none;
@@ -707,4 +703,9 @@ music-background {
       display: block;
     }
 }
-*/
+
+.active{
+    padding: 1.5rem;
+    text-align: center;
+    background: "bleue"
+}
