@@ -675,7 +675,7 @@ video-background {
 }
  
 footer {
-    position:relative;
+    position:absolute;
     top: 90%;
     width:100%;
     background: transparent;
